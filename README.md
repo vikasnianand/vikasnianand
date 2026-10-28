@@ -1,5 +1,5 @@
 
-# hello, i'm vikasni ⋆｡°✩
+# hellooo, i'm vikasni ⋆｡°✩
 
 i'm a big data & analytics student at temasek poly, currently in year 2 and poking around in data to turn messy datasets into things people can actually make decisions from.
 
